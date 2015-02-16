@@ -1,0 +1,16 @@
+*.tlog
+*.png
+*.bmp
+*.wav
+DxLib/DxLib.txt
+Log.txt
+DxLib/DxDirectX.h
+*.lastbuildstate
+*.idb
+DxLib/DxLib.h
+GameProg_2012.sdf
+GameProg_2012.vcxproj
+GameProg_2012.vcxproj.filters
+Tetris_proto.sdf
+Yumeotimeguri.sdf
+Yumeotimeguri.sln
