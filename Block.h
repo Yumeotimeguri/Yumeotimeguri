@@ -1,0 +1,1 @@
+int (*createTetrmino(int i))[4];//ˆø”‚ÌƒeƒgƒŠƒ~ƒm‚ğì‚Á‚Ä•Ô‚·
